@@ -1,0 +1,14 @@
+C:\Users\tmaragno\WSApi\bin\Debug\netcoreapp2.1\WSApi.deps.json
+C:\Users\tmaragno\WSApi\bin\Debug\netcoreapp2.1\WSApi.runtimeconfig.json
+C:\Users\tmaragno\WSApi\bin\Debug\netcoreapp2.1\WSApi.runtimeconfig.dev.json
+C:\Users\tmaragno\WSApi\bin\Debug\netcoreapp2.1\WSApi.dll
+C:\Users\tmaragno\WSApi\bin\Debug\netcoreapp2.1\WSApi.pdb
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.csprojAssemblyReference.cache
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.csproj.CoreCompileInputs.cache
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.RazorAssemblyInfo.cache
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.RazorAssemblyInfo.cs
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.AssemblyInfoInputs.cache
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.AssemblyInfo.cs
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.RazorTargetAssemblyInfo.cache
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.dll
+C:\Users\tmaragno\WSApi\obj\Debug\netcoreapp2.1\WSApi.pdb
