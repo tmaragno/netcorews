@@ -2,7 +2,7 @@ box: microsoft/dotnet
 build:
   steps:    
     - internal/docker-build: 
-        dockerfile: Dockerfile
+        dockerfile: ./Dockerfile
         image-name: temp-image # temporary name used to refer to this image in a subsequent step
     - internal/docker-push: 
         image-name: temp-image
